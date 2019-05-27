@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Doggos</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="clear_button">Clear</string>
+    <string name="burnese_mountain">https://images.all-free-download.com/images/graphiclarge/cute_puppy_02_hq_pictures_168931.jpg</string>
+    <string name="german_shepherd">https://images.all-free-download.com/images/graphiclarge/shepherd_picture_168822.jpg</string>
+    <string name="golden">https://images.all-free-download.com/images/graphiclarge/golden_retriever_dog_animal_221045.jpg</string>
+    <string name="samoyed">https://images.all-free-download.com/images/graphiclarge/happy_puppy_194311.jpg</string>
+    <string name="collie">https://images.all-free-download.com/images/graphiclarge/rough_collie_dog_collie_219185.jpg</string>
+    <string name="cutie">https://images.all-free-download.com/images/graphiclarge/dog_animal_cute_215868.jpg</string>
+    <string name="lab">https://images.all-free-download.com/images/graphiclarge/labrador_puppy_199723.jpg</string>
+    <string name="bull">https://images.all-free-download.com/images/graphiclarge/the_tongue_bulldogs_definition_picture_168922.jpg</string>
+    <string name="husky">https://images.all-free-download.com/images/graphiclarge/siberian_husky_555873.jpg</string>
+    <string name="poodle">https://images.all-free-download.com/images/graphiclarge/dog_adrift_poodle_265432.jpg</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="back_button">EXIT FULL SCREEN</string>
+</resources>
